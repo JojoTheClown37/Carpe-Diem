@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad043664c6998514dad7fa92a698e13f
+timeCreated: 1587257235
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: aAutoyesClosely
+  fontNames:
+  - aAutoyesClosely
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8eeb8adfa9d492147a5c0a3efc1bb084, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
